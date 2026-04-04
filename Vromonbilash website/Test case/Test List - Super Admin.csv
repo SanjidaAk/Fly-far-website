@@ -2,7 +2,7 @@ Module,Task/Functionality,Status,Remark BY QA
 Login,"login with username, email, phone number and encripted password",Complete,ok
 ,Forget Password,Complete,ok
 ,Keep me logged in,Complete,ok
-Dashboard,"Total Resort, Tourest sport, Bookings, Customer counting",Complete,ok
+Dashboard,"Total Resort, Tourest  sport, Bookings, Customer counting",Complete,ok
 ,"Need more summary like active current user, current pending booking request, package and resort booking  seperately counting view, etc",On Process,
 ,"View graphical booking summary like bar chart, pi chart etc",On Process,
 ,Latest few Booking Request showing (currently 15 booking show),On Process,
